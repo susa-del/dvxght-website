@@ -6,7 +6,9 @@ body{
     height: 100vh;
     background-color: hsl(0, 05, 95%);
 }
-
+#box{
+    font-size: 5rem;
+}
 #calculator{
     font-family: Arial, sans-serif;
     background-color: hsl(0, 0%, 15%);
